@@ -22,18 +22,3 @@ Weichselbraun, Anna. 2014. “‘People Here Speak Five Languages!’: The Reind
 ———. 2023a. “Wort für Wort. Bedingungen der Analyse diplomatischer Wortprotokolle als historische Quellen.” In Das Protokoll, edited by Peter Plener, Niels Werber, and Burkhardt Wolf, 31–45. AdminiStudies. Formen und Medien der Verwaltung. Berlin, Heidelberg: J.B. Metzler. https://doi.org/10.1007/978-3-662-66896-2_3.
 ———. 2023b. “Atomic Destruction.” In Handbook of the Anthropocene: Humans between Heritage and Future, edited by Nathanaël Wallenhorst and Christoph Wulf. Springer International Publishing.
 Weichselbraun, Anna Maria. 2016. “Constituting the International Nuclear Order: Bureaucratic Objectivity at the IAEA.” Ph.D., United States -- Illinois: The University of Chicago. https://search.proquest.com/docview/1837433938.
-
-
-
-
-{% comment %}
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endcomment %}
