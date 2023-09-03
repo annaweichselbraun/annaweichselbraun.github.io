@@ -48,3 +48,13 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
+### Talks {#talks}
+
+
+VIDEO: ["Technologies of Trust: Experiments in Web3 Governance,"](https://youtu.be/bT95-k8ObzQ) Research Seminar at CISAC Stanford. Feb 14, 2023.
+
+
+"What's Governing Web3?" USC Berggruen Fellows Lecture Series, Feb 1, 2023.
