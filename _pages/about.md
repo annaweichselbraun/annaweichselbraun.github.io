@@ -51,7 +51,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 
-### Talks {#talks}
+# Talks {#talks}
 
 
 VIDEO: ["Technologies of Trust: Experiments in Web3 Governance,"](https://youtu.be/bT95-k8ObzQ) Research Seminar at CISAC Stanford. Feb 14, 2023.
