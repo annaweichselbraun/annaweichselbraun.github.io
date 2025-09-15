@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to My Website on Anna Weichselbraun</title>
+    <link>https://annaweichselbraun.com/</link>
+    <description>Recent content in Welcome to My Website on Anna Weichselbraun</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://annaweichselbraun.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://annaweichselbraun.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annaweichselbraun.com/about/</guid>
+      <description>&lt;p&gt;Hello, my name is Anna Weichselbraun (/ˈvaɪ̯ç.səl.bʁaʊ̯n/), and I&amp;rsquo;m a linguistic and sociocultural anthropologist who studies how knowledge, technology, and language shape contemporary forms of governance and cultural common sense.&lt;/p&gt;
+&lt;p&gt;My research spans nuclear safeguards, experimental blockchain and cryptocurrency communities, and large language models. I use semiotic analysis and ethnographic methods to examine how bureaucracies and technical systems enact and stabilize common sense — often in unexpected ways.&lt;/p&gt;
+&lt;p&gt;This fall I am serving as &lt;em&gt;Gastprofessorin&lt;/em&gt; at the University of Vienna&amp;rsquo;s Department of European Ethnology.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>https://annaweichselbraun.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annaweichselbraun.com/cv/</guid>
+      <description>&lt;p&gt;You can download my full CV here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://annaweichselbraun.com/cv.pdf&#34;&gt;📄 Download PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://annaweichselbraun.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annaweichselbraun.com/projects/</guid>
+      <description>&lt;p&gt;Here are my current and ongoing research projects:&lt;/p&gt;
+&lt;hr&gt;
+&lt;div style=&#34;display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;&#34;&gt;
+  &lt;div style=&#34;flex-shrink: 0;&#34;&gt;
+    &lt;img src=&#34;https://annaweichselbraun.com/images/iaea_panoramio.jpg&#34; alt=&#34;IAEA Project&#34; width=&#34;200&#34; style=&#34;border-radius: 12px; object-fit: cover;&#34;&gt;
+    &lt;p style=&#34;font-size: 0.8rem; color: gray; margin-top: 0.3rem; text-align: left;&#34;&gt;Photo: Schölla Schwarz&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;h3&gt; Knowledge Practices of Nuclear Safeguards Inspectors at the IAEA&lt;/h3&gt;
+&lt;p&gt;This research provides an intimate view of the practices and activities of nuclear safeguards inspectors at the International Atomic Energy Agency, and connects these quotidian practices to the geopolitics of nuclear governance. It investigates the question of the organization&amp;rsquo;s political legitimacy through the capacity for the bureaucracy to produce objective knowledge with a particular look at the semiotic affordances of &lt;em&gt;technicalness&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://annaweichselbraun.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annaweichselbraun.com/research/</guid>
+      <description>&lt;p&gt;Here are my current and ongoing research projects:&lt;/p&gt;
+&lt;hr&gt;
+&lt;div style=&#34;display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;&#34;&gt;
+  &lt;div style=&#34;flex-shrink: 0;&#34;&gt;
+    &lt;img src=&#34;https://annaweichselbraun.com/images/iaea_panoramio.jpg&#34; alt=&#34;IAEA Project&#34; width=&#34;200&#34; style=&#34;border-radius: 12px; object-fit: cover;&#34;&gt;
+    &lt;p style=&#34;font-size: 0.8rem; color: gray; margin-top: 0.3rem; text-align: left;&#34;&gt;Photo: Schölla Schwarz&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;h3&gt; Knowledge Practices of Nuclear Safeguards Inspectors at the IAEA&lt;/h3&gt;
+&lt;p&gt;This research provides an intimate view of the practices and activities of nuclear safeguards inspectors at the International Atomic Energy Agency, and connects these quotidian practices to the geopolitics of nuclear governance. It investigates the question of the organization&amp;rsquo;s political legitimacy through the capacity for the bureaucracy to produce objective knowledge with a particular look at the semiotic affordances of &lt;em&gt;technicalness&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talk/ing</title>
+      <link>https://annaweichselbraun.com/talking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annaweichselbraun.com/talking/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.recet.at/podcast/detail/episode-52-nuclear-energy-from-dark-past-to-green-future&#34;&gt;&lt;strong&gt;&amp;ldquo;Episode 52: Nuclear Energy: From Dark Past to Green Future?&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+RECET – Research Center for the History of Transformations&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;June 19, 2024&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;(Podcast interview on nuclear energy’s shifting sociopolitical and environmental meanings.)&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/bT95-k8ObzQ&#34;&gt;&lt;strong&gt;&amp;ldquo;Technologies of Trust: Experiments in Web3 Governance&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+Research Seminar at CISAC, Stanford University&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;February 14, 2023&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dornsife.usc.edu/stpl/usc-berggruen-lecture-series/&#34;&gt;&lt;strong&gt;&amp;ldquo;What&amp;rsquo;s Governing Web3?&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+USC Berggruen Fellows Lecture Series&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;February 1, 2023&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://annaweichselbraun.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annaweichselbraun.com/teaching/</guid>
+      <description>&lt;p&gt;You can find a complete list of course I have taught at the University of Vienna &lt;a href=&#34;https://ufind.univie.ac.at/en/person.html?id=105857&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>https://annaweichselbraun.com/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://annaweichselbraun.com/writing/</guid>
+      <description>&lt;h2 id=&#34;scholarly-publications&#34;&gt;Scholarly Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025&lt;/strong&gt;: &lt;a href=&#34;https://www.cambridge.org/core/journals/signs-and-society/article/how-will-i-know-semiotic-indeterminacy-transparency-and-expectations-of-sincerity-in-the-global-nuclear-order/1F6E47363205D9707A3D4343115D63B5&#34;&gt;&amp;quot;&amp;lsquo;How Will I Know?&amp;rsquo;: Semiotic Indeterminacy, Transparency and Expectations of Sincerity in the Global Nuclear Order&amp;quot; in &lt;em&gt;Signs and Society&lt;/em&gt; 13(1): 1–17.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023&lt;/strong&gt;: &lt;a href=&#34;https://www.berghahnjournals.com/view/journals/cja/41/2/cja410202.xml&#34;&gt;“Introduction: Technologies and Infrastructures of Trust,” with Ramah McKay and Shaila Seshia Galvin. Special Issue co-edited with Shaila Seshia Galvin and Ramah McKay. In &lt;em&gt;The Cambridge Journal of Anthropology&lt;/em&gt; 41.2: 1–14.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023&lt;/strong&gt;: “Atomic Destruction.” In &lt;em&gt;Handbook of the Anthropocene.&lt;/em&gt; Eds. Nathanaël Wallenhorst and Christoph Wulf. Springer Nature. 1477–1481.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023&lt;/strong&gt;: &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-662-66896-2_3&#34;&gt;“Wort für Wort. Bedingungen der Analyse diplomatischer Wortprotokolle als historische Quellen.” (Word for Word. Analyzing diplomatic verbatim records as historical sources.)&lt;/a&gt; In &lt;em&gt;Das Protokoll.&lt;/em&gt; Eds. Peter Plener, Niels Werber, Burkhardt Wolf. J.B. Metzler. 31–45.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023&lt;/strong&gt;: &lt;em&gt;Problematisieren und Sorgetragen. Kulturanalytische Konzepte von Öffentlichkeit und Arbeitsweisen des Öffentlichmachens&lt;/em&gt; with eds. Mattias Beitl, Christian Elster, Alexa Färber, and Anna Weichselbraun. Buchreihe der Österreichischen Zeitschrift für Volkskunde, Band 30.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021&lt;/strong&gt;: “In Code We Trust: On the Semiotics of Blockchain” &lt;em&gt;Kuckuck: Notizen zur Alltagskultur&lt;/em&gt; 36.1: 62–65.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2020&lt;/strong&gt;: &lt;a href=&#34;https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/plar.12346&#34;&gt;“From Accountants to Detectives: How Nuclear Safeguards Inspectors Make Knowledge at the IAEA.”&lt;/a&gt; &lt;em&gt;PoLAR: Political and Legal Anthropology Review&lt;/em&gt; 43.1: 120–135. (&lt;em&gt;PoLAR&lt;/em&gt;&amp;rsquo;s most downloaded article in 2020.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019&lt;/strong&gt;: &lt;a href=&#34;https://journal.culanth.org/index.php/ca/article/view/4139&#34;&gt;“Of Broken Seals and Broken Promises: Attributing Intention at the IAEA.”&lt;/a&gt; &lt;em&gt;Cultural Anthropology&lt;/em&gt; 34.4: 503–528.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2014&lt;/strong&gt;: &lt;a href=&#34;http://www.oxfordbibliographies.com/view/document/obo-9780199766567/obo-9780199766567-0022.xml&#34;&gt;“Language and Law.” (with Justin Richland)&lt;/a&gt; In &lt;em&gt;Oxford Bibliographies in Anthropology.&lt;/em&gt; Ed. John Jackson. New York: Oxford University Press.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2014&lt;/strong&gt;: &lt;a href=&#34;https://doi.org/10.1017/S0047404514000384&#34;&gt;“‘People Here Speak Five Languages!’: the Reindexicalization of Linguistic Minorityhood Among Carinthian Slovenes in Vienna, Austria.”&lt;/a&gt; &lt;em&gt;Language in Society&lt;/em&gt; 43.4: 421–444.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;manuscripts-in-preparationsubmitted&#34;&gt;Manuscripts in Preparation/Submitted&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Submitted&lt;/strong&gt;: &lt;em&gt;The Order of Nuclear Things: Making Safeguards Technical at the IAEA&lt;/em&gt; for consideration at Cornell University Press, Cultures of Expertise series.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accepted&lt;/strong&gt;: “Die Epistemischen Affordanzen von Papier: über die Digitalisierung eines Handbuchs&amp;quot; for &lt;em&gt;Zeitschrift für Empirische Kulturwissenschaft&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In Preparation&lt;/strong&gt;: “Human tests for machine models: What lies ‘Beyond the Imitation Game’?&amp;quot; with Noya Kohavi for a Special Issue in &lt;em&gt;Journal of Linguistic Anthropology&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;reviews&#34;&gt;Reviews&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023&lt;/strong&gt;: &lt;a href=&#34;https://doi.org/10.1017/S0047404523000234&#34;&gt;Nielsen and Nielsen, &lt;em&gt;Revisiting Trustworthiness in Social Interaction. Routledge Research in Language and Communication&lt;/em&gt;.&lt;/a&gt; In &lt;em&gt;Language in Society&lt;/em&gt;, 52.3 June.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018&lt;/strong&gt;: &lt;a href=&#34;https://doi.org/10.1093/envhis/emx165&#34;&gt;&lt;em&gt;Containment.&lt;/em&gt; Directed and produced by Peter Galison and Robb Moss. Redacted Pictures, 2015. 81 minutes.&lt;/a&gt; In &lt;em&gt;Environmental History&lt;/em&gt;, Volume 23, Issue 2, 2018: 393–396.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt;: &lt;a href=&#34;http://allegralaboratory.net/review-the-language-of-food-a-linguist-reads-the-menu/&#34;&gt;Dan Jurafsky, &lt;em&gt;The Language of Food: a Linguist Reads the Menu&lt;/em&gt;.&lt;/a&gt; In &lt;em&gt;Allegra Lab&lt;/em&gt;, May 12.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2009&lt;/strong&gt;: Gisèle Sapiro, ed. &lt;em&gt;Translatio. Le marché de la traduction en France à l’heure de la mondialisation&lt;/em&gt;. In &lt;em&gt;Revue de Synthèse&lt;/em&gt;, Dec.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;public-scholarship&#34;&gt;Public Scholarship&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024&lt;/strong&gt;: &lt;a href=&#34;https://constitutions.metagov.org/article&#34;&gt;“The Constitutions of Web3”&lt;/a&gt; with Joshua Tan, Max Langenkamp, Ann Brody, and Lucia Korpas. Metagov.org., &lt;a href=&#34;https://doi.org/10.48550/arXiv.2403.00081&#34;&gt;https://doi.org/10.48550/arXiv.2403.00081.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022&lt;/strong&gt;: &lt;a href=&#34;https://allegralaboratory.net/trust-truth-and-the-blockchain/&#34;&gt;“Trust, truth, and the blockchain.”&lt;/a&gt; &lt;em&gt;Allegra Lab&lt;/em&gt;, September.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022&lt;/strong&gt;: &lt;a href=&#34;https://allegralaboratory.net/trust-truth-and-the-blockchain/&#34;&gt;“Technologies of Trust: Introduction,” with Shaila Seshia Galvin and Ramah McKay.&lt;/a&gt; &lt;em&gt;Allegra Lab&lt;/em&gt;, September.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2021&lt;/strong&gt;: “Chronotopos Corona.” &lt;em&gt;Österreichische Zeitschrift für Volkskunde&lt;/em&gt;, LXXV.1: 81–85.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2020&lt;/strong&gt;: &lt;a href=&#34;https://culanth.org/fieldsights/corona-chronotopes?token=zqrFZY66OGmYWAKcBrMma-VkVlJNoUF-&#34;&gt;“Corona Chronotopes.”&lt;/a&gt; &lt;em&gt;Cultural Anthropology Fieldsights&lt;/em&gt;, Editor&amp;rsquo;s Forum on Covid-19, April 27.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018&lt;/strong&gt;: &lt;a href=&#34;http://www.anthropology-news.org/index.php/2018/07/19/not-talking-about-disarmament-at-the-iaea/&#34;&gt;“Not Talking about Disarmament at the IAEA: How Nonproliferation Rules Ensure That Nuclear Weapons Are Here to Stay.”&lt;/a&gt; &lt;em&gt;Anthropology News&lt;/em&gt;, 59.4: 42–43.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017&lt;/strong&gt;: &lt;a href=&#34;https://www.theguardian.com/world/2017/jul/06/trump-nuclear-weapons-north-korea&#34;&gt;“Don’t Assume Trump Is More Responsible with Nuclear Weapons than North Korea.”&lt;/a&gt; &lt;em&gt;The Guardian&lt;/em&gt;, Jul 6.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017&lt;/strong&gt;: &lt;a href=&#34;http://first100days.stsprogram.org/2017/04/14/crisis-talk-in-crisis-and-nuclear-scholars-responsibility-to-imagine/&#34;&gt;“‘Crisis Talk’ in Crisis and Nuclear Scholars’ Responsibility to Imagine.”&lt;/a&gt; &lt;em&gt;First 100 Days: Harvard STS Blog&lt;/em&gt;, Apr 14.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt;: &lt;a href=&#34;https://www.wilsoncenter.org/publication/increasing-transparency-the-iaea-archives&#34;&gt;“Increasing Transparency at the IAEA Archives.”&lt;/a&gt; &lt;em&gt;Issue Brief No. 4&lt;/em&gt;, Washington, D.C.: Wilson Center Nuclear Proliferation International History Project, Mar 3.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
