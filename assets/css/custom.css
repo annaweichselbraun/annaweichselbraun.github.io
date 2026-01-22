@@ -1,14 +1,4 @@
-body {
-  background-color: #e9edc9 !important; /* light pistachio */
-}
-
-/* Optional: change content container background */
-
-.main {
-  background-color: #e9edc9 !important; /* light pistachio content area */
-  padding: 2rem;
-  border-radius: 12px;
-}
+/* Background color removed - was applying to all pages */
 
 .responsive-project {
   margin-bottom: 2rem;
