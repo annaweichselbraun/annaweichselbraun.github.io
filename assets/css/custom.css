@@ -4,16 +4,26 @@
   margin-bottom: 2rem;
 }
 
-.responsive-project img {
+.responsive-project .image-wrapper {
   float: left;
   margin-right: 1.5rem;
   margin-bottom: 1rem;
+  width: 200px;
+}
+
+.responsive-project .image-wrapper img {
+  width: 100%;
+  display: block;
+}
+
+.responsive-project .image-wrapper p {
+  margin-top: 0.3rem;
+  margin-bottom: 0;
 }
 
 @media (max-width: 768px) {
-  .responsive-project img {
+  .responsive-project .image-wrapper {
     float: none;
-    display: block;
     margin: 0 auto 1rem auto;
   }
 }
